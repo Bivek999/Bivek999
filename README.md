@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Berkeli</h1>
+<h1 align="center">Hi 👋, I'm Bivek Kumar Shaw</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
-
--------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
-&emsp;
+<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="Bivek's header image">
 
 -------------------
 &emsp;
+<h3 align="left">Hi 👋, I'm Bivek Kumar Shaw, Site Reliability Engineer based in India. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+&emsp;
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+-------------------
+&emsp;
 
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+- 🔭 I’m currently working on [Ecommerce Website](https://mentor.love/) for self Practice. 
 
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+- 🌱 I’m currently learning Node, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+
+- 💬 Ask me about **AWS, TypeScript, SQL/NoSQL Databases**
 
 &emsp;
 
@@ -24,24 +23,16 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
+<a href="https://www.linkedin.com/in/bivekshaw/">
     ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
 </a>
 <a href="https://github.com/Bivek999">
     ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
 </a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
 <a href="https://leetcode.com/Bivek_Shaw/">
     ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
 </a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
-</a>
+<a href="https://auth.geeksforgeeks.org/user/kumarbivekshaw999/practice/"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 
 &emsp;
 
@@ -51,6 +42,9 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+<a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -59,9 +53,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
+
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
