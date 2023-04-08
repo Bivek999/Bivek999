@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bivek Kumar Shaw</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="Bivek's header image">
 
 -------------------
 &emsp;
@@ -24,13 +23,13 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/bivekshaw/">
-    ![Linkedin:](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin:](https://img.shields.io/badge/-bivek-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Bivek999">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+    ![GitHub: bivek](https://img.shields.io/github/followers/bivek?label=follow&style=social)
 </a>
 <a href="https://leetcode.com/Bivek_Shaw/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
+    ![LeetCode: bivek](https://img.shields.io/badge/-bivek-000?&logo=LeetCode)
 </a>
 <a href="https://auth.geeksforgeeks.org/user/kumarbivekshaw999/practice/"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 
