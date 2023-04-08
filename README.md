@@ -24,7 +24,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/bivekshaw/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin:](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Bivek999">
     ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
